@@ -237,4 +237,4 @@ n8n templates, n8n workflow templates, n8n mcp, n8n workflow examples, n8n autom
 - Apify MCP docs: https://docs.apify.com/platform/integrations/mcp
 - uv: https://docs.astral.sh/uv/
 
-Last Updated: 2026.09.20
+Last Updated: 2026.09.21
